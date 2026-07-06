@@ -94,7 +94,7 @@ const vitePressConfigs = {
     ],
 
     ///////////////////// 社交链接 /////////////////////
-    socialLinks: [{ icon: "github", link: "https://github.com/wds-dxh" }],
+    socialLinks: [{ icon: "github", link: "https://cloud-home.dxh-wds.top:20110/w" }],
 
     ///////////////////// 页脚配置 /////////////////////
     footer: {

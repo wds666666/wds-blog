@@ -14,7 +14,7 @@ hero:
       link: /关于我/
     - theme: alt
       text: 📧 联系我
-      link: https://github.com/wds-dxh
+      link: https://cloud-home.dxh-wds.top:20110/w
     # - theme: alt
     #   text: 📚 浏览文档
     #   link: /文档/

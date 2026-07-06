@@ -564,6 +564,48 @@ html {
   border-radius: 1px;
 }
 
+/* B 站视频嵌入 */
+.video-embed {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: 24px auto;
+  aspect-ratio: 16 / 9;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--vp-shadow-2);
+  background: var(--vp-c-bg-soft);
+}
+
+.video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.video-embed-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  max-width: 960px;
+  margin: 24px auto;
+}
+
+.video-embed-item .video-embed {
+  margin: 0;
+}
+
+.video-embed-label {
+  margin: 0 0 12px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+  text-align: center;
+}
+
 /* 技能网格样式 */
 .skills-grid {
   display: flex;

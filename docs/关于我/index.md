@@ -16,6 +16,68 @@
 - ⚡ Interests: Machine Learning, Embedded Systems, Hardware Design
 - 📚 Blog: [https://wds-blog.dxh-wds.top](https://wds-blog.dxh-wds.top)
 
+## 🤖 代表作 · 具身智能 · 轮式单臂
+
+轮式单臂机器人个人全栈项目：从结构设计、硬件选型到软件栈与 Agent 后端，覆盖视觉识别与机械臂伺服抓取。通过自制语音遥控器接入 Agent 后端，实现「感知 → 决策 → 执行」的闭环控制。
+
+<div class="video-embed">
+  <iframe
+    src="https://player.bilibili.com/player.html?isOutside=true&aid=114648078616240&bvid=BV1LVTRzmEKJ&cid=30391273286&p=1"
+    scrolling="no"
+    border="0"
+    frameborder="no"
+    framespacing="0"
+    allowfullscreen="true"
+  ></iframe>
+</div>
+
+## 🤖 代表作 · 具身智能 · 轮式双臂
+
+轮式双臂复合机器人：双臂姿态同步与回零点标定测试，验证左右臂协同运动与关节零位一致性。
+
+<div class="video-embed-stack">
+  <div class="video-embed-item">
+    <p class="video-embed-label">双臂姿态同步</p>
+    <div class="video-embed">
+      <iframe
+        src="https://player.bilibili.com/player.html?isOutside=true&aid=116873307949046&bvid=BV1i9TX6aEaA&cid=39708461350&p=1"
+        scrolling="no"
+        border="0"
+        frameborder="no"
+        framespacing="0"
+        allowfullscreen="true"
+      ></iframe>
+    </div>
+  </div>
+  <div class="video-embed-item">
+    <p class="video-embed-label">双臂回零点测试</p>
+    <div class="video-embed">
+      <iframe
+        src="https://player.bilibili.com/player.html?isOutside=true&aid=116873324661558&bvid=BV1jXTX6AEhx&cid=39708525332&p=1"
+        scrolling="no"
+        border="0"
+        frameborder="no"
+        framespacing="0"
+        allowfullscreen="true"
+      ></iframe>
+    </div>
+  </div>
+</div>
+
+## 🤖 代表作 · 具身智能 · 轮足机器人
+
+轮足机器人通用导航模组测试：基于 ROS 2 + FAST-LIO2 定位建图与 Nav2 导航栈，验证自主移动与路径规划能力。
+
+<div class="video-embed">
+  <iframe
+    src="https://player.bilibili.com/player.html?isOutside=true&aid=116873307883392&bvid=BV1j9TX6aEAR&cid=39708331993&p=1"
+    scrolling="no"
+    border="0"
+    frameborder="no"
+    framespacing="0"
+    allowfullscreen="true"
+  ></iframe>
+</div>
 
 ## 🌐 Languages
 
